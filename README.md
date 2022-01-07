@@ -45,6 +45,6 @@
 
 <br>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ronitblenz&" alt="ronitblenz" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ronitblenz&" alt="ronitblenz" /></p>
 
 <br>
