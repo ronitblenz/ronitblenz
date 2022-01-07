@@ -18,7 +18,6 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ronitblenz.ronitblenz)
 
-<br>
 
 <h3>Statistical Data :-</h3>
 <p><img align="center"
