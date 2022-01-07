@@ -17,3 +17,21 @@
 <br />
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ronitblenz.ronitblenz)
+
+<br>
+
+<h3>Statistical Data :-</h3>
+<p><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=ronitblenz&show_icons=true&locale=en&layout=compact"
+    alt="ronitblenz" /></p>
+
+<br>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ronitblenz&show_icons=true&locale=en"
+    alt="ronitblenz" /></p>
+
+<br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ronitblenz&" alt="ronitblenz" /></p>
+
+<br>
