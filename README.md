@@ -37,7 +37,6 @@
 
 [![Ronit's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ronitblenz&theme=tokyonight)](https://git.io/praveenscience)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-chowrasia&label=Profile%20views&color=0e75b6&style=flat" alt="akash-chowrasia" /> </p>
 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
 <h3>Statistical Data :-</h3>
