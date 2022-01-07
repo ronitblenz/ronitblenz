@@ -24,6 +24,13 @@
 
 - ⚡ Fun fact :- football and photography are the reasons to live.
 
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+
+<a href= https://www.geeksforgeeks.org/c-programming-language/> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
+<a href= https://www.geeksforgeeks.org/c-plus-plus/> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
+<a href= https://www.geeksforgeeks.org/java/> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
+
+
 [![Ronit's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ronitblenz&theme=tokyonight)](https://git.io/praveenscience)
 
 <h3>Statistical Data :-</h3>
