@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Ronit!](https://github.com/ronitblenz) 
 
 <a href="https://www.linkedin.com/in/ronitbanerjee/">
