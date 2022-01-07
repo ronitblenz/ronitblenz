@@ -24,6 +24,7 @@
 
 - ⚡ Fun fact :- football and photography are the reasons to live.
 
+[![Ronit's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ronitblenz&theme=tokyonight)](https://git.io/praveenscience)
 
 <h3>Statistical Data :-</h3>
 <p><img align="center"
