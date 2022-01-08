@@ -26,7 +26,7 @@
 
 - 📫 How to reach me **ronitbanerjee03@gmail.com**
 
-- ⚡ Fun fact :- football and photography are the reasons to live.
+- ⚡ Fun fact :- Football and Photography are the reasons to live.
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
