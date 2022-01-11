@@ -43,7 +43,7 @@
 
 
 
-[![Ronit's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ronitblenz&theme=tokyonight)](https://git.io/praveenscience)
+[![Ronit's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ronitblenz&theme=tokyonight)](https://github.com/ronitblenz?tab=repositories)
 
 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
