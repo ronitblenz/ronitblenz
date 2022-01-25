@@ -22,8 +22,7 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ronitblenz.ronitblenz)
 
-- 🌱 I’m currently learning Data Structures & Algorithms and other programming languages
-
+- 🌱 I’m currently learning Data Structures & Algorithms and DevOps Practices
 - 📫 How to reach me **ronitbanerjee03@gmail.com**
 
 - ⚡ Fun fact :- Football and Photography are the reasons to live.
