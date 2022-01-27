@@ -29,16 +29,19 @@
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
-<a href= https://www.geeksforgeeks.org/java/> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
-<a href= https://www.geeksforgeeks.org/c-programming-language/> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
-<a href= https://www.geeksforgeeks.org/c-plus-plus/> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
-<a href= https://www.w3schools.com/html/> <img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg'> </a>
-<a href= https://en.wikipedia.org/wiki/Adobe_Photoshop/> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/photoshop.svg'> </a>
-<a href= https://en.wikipedia.org/wiki/Adobe_Lightroom> <img width ='32px' src ='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/adobelightroomcc.svg'> </a>
-<a href= https://www.linux.org/> <img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'> </a>
-<a href= https://www.apple.com/in/macos> <img width ='32px' src ='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/apple.svg'> </a>
-<a href= https://www.microsoft.com/en-in/windows> <img width ='32px' src ='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/windows.svg'> </a>
-<a href= https://git-scm.com/> <img width ='32px' src ='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/git.svg'> </a>
+<a href= https://www.geeksforgeeks.org/java/> <img width ='40px' src ='https://img.icons8.com/color/144/000000/java-coffee-cup-logo--v1.png'> </a>
+<a href= https://www.geeksforgeeks.org/c-programming-language/> <img width ='40px' src ='https://img.icons8.com/color/144/000000/c-programming.png'> </a>
+<a href= https://www.geeksforgeeks.org/c-plus-plus/> <img width ='40px' src ='https://img.icons8.com/color/144/000000/c-plus-plus-logo.png'> </a>
+<a href= https://www.w3schools.com/html/> <img width ='40px' src ='https://img.icons8.com/color/144/000000/html-5--v1.png'> </a>
+<a href= https://en.wikipedia.org/wiki/Adobe_Photoshop/> <img width ='40px' src ='https://img.icons8.com/color/144/000000/adobe-photoshop--v1.png'> </a>
+<a href= https://en.wikipedia.org/wiki/Adobe_Lightroom> <img width ='40px' src ='https://img.icons8.com/color/144/000000/adobe-lightroom--v1.png'> </a>
+<a href= https://code.visualstudio.com/> <img width ='40px' src ='https://img.icons8.com/color/144/000000/visual-studio-code-2019.png'> </a>
+<a href= https://www.jetbrains.com/idea/> <img width ='40px' src ='https://img.icons8.com/color/144/000000/intellij-idea.png'> </a>
+<a href= https://www.linux.org/> <img width ='40px' src ='https://img.icons8.com/color/144/000000/linux--v1.png'> </a>
+<a href= https://www.apple.com/in/macos> <img width ='40px' src ='https://img.icons8.com/ios-glyphs/144/000000/mac-client.png'> </a>
+<a href= https://www.microsoft.com/en-in/windows> <img width ='40px' src ='https://img.icons8.com/fluency/144/000000/windows-10.png'> </a>
+<a href= https://git-scm.com/> <img width ='40px' src ='https://img.icons8.com/color/144/000000/git.png'> </a>
+<a href= https://www.docker.com/> <img width ='40px' src ='https://img.icons8.com/color/144/000000/docker.png'> </a>
 
 
 
