@@ -35,6 +35,7 @@
 <a href= https://www.w3schools.com/html/> <img width ='40px' src ='https://img.icons8.com/color/144/000000/html-5--v1.png'> </a>
 <a href= https://en.wikipedia.org/wiki/Adobe_Photoshop/> <img width ='40px' src ='https://img.icons8.com/color/144/000000/adobe-photoshop--v1.png'> </a>
 <a href= https://en.wikipedia.org/wiki/Adobe_Lightroom> <img width ='40px' src ='https://img.icons8.com/color/144/000000/adobe-lightroom--v1.png'> </a>
+<a href= https://en.wikipedia.org/wiki/Adobe_Premiere> <img width ='40px' src ='https://img.icons8.com/color/144/000000/adobe-premiere-pro--v1.png'> </a>
 <a href= https://code.visualstudio.com/> <img width ='40px' src ='https://img.icons8.com/color/144/000000/visual-studio-code-2019.png'> </a>
 <a href= https://www.jetbrains.com/idea/> <img width ='40px' src ='https://img.icons8.com/color/144/000000/intellij-idea.png'> </a>
 <a href= https://www.linux.org/> <img width ='40px' src ='https://img.icons8.com/color/144/000000/linux--v1.png'> </a>
