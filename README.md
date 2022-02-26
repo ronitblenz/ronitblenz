@@ -13,6 +13,9 @@
 <a href="mailto:ronitbanerjee03@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
+<a href="https://ronitblenz.github.io/ronitblenz-portfolio/">
+  <img align="left" width="26px" src="https://img.icons8.com/ios/50/000000/domain.png"/>
+</a>
 <a href="https://www.instagram.com/ronitblenz/">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
@@ -23,7 +26,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ronitblenz.ronitblenz)
 
 - 🌱 I’m currently learning Data Structures & Algorithms and DevOps Practices
-- 📫 How to reach me **ronitbanerjee03@gmail.com**
+- 📫 My Portfolio Website : **https://ronitblenz.github.io/ronitblenz-portfolio/**
 
 - ⚡ Fun fact :- Football and Photography are the reasons to live.
 
