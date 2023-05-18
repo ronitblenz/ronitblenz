@@ -1,70 +1,28 @@
-<p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
-</p>
+<p align="center"><img alt="Profile Banner" src="https://github.com/ronitblenz/ronitblenz/assets/91361382/b9c4dfc7-9e67-43f9-89ae-da037ce1fcda"></p>
 
-## Hey I'm [Ronit !](https://github.com/ronitblenz) 
 
-<a href="https://www.linkedin.com/in/ronitbanerjee/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
-</a>
-<a href="https://twitter.com/ronitblenz">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="mailto:ronitbanerjee03@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a href="https://ronitblenz.github.io/ronitblenz-portfolio/">
-  <img align="left" width="26px" src="https://img.icons8.com/ios/50/000000/domain.png"/>
-</a>
-<a href="https://www.instagram.com/ronitblenz/">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+<p align="left"> <a href="https://twitter.com/intent/follow?screen_name=ronitblenz" target="blank"><img src="https://www.learninglight.com/wp-content/uploads/2017/06/Twitter-follow-button.png" height="36" alt="ronitblenz"/></a></p>
 
-<br />
-<br />
+<div align="center">
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=ronitblenz.ronitblenz)
+I am a DevOps and Cloud Engineer. I like building CLI and automation tools. I am passionate about promoting Open Source literacy and inclusivity. Apart from that, I am co-founder of a deep-tech start-up.
 
-- 🌱 I’m currently learning Data Structures & Algorithms and DevOps Practices
-- 📫 My Portfolio Website : **https://ronitblenz.github.io/ronitblenz-portfolio/**
+</div>
 
-- ⚡ Fun fact :- Football and Photography are the reasons to live.
+### My Latest Blog Posts 👇
+<!-- HASHNODE_BLOG:START -->
+![Blog](https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://ronitbanerjee.hashnode.dev/introduction-to-devops&large=true&theme=light)
 
-<h2> Skills </h2>
+![](https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://ronitbanerjee.hashnode.dev/ec2-using-terraform&large=true&theme=light)
 
-<a href= https://www.geeksforgeeks.org/java/> <img width ='40px' src ='https://img.icons8.com/color/144/000000/java-coffee-cup-logo--v1.png'> </a>
-<a href= https://www.geeksforgeeks.org/c-programming-language/> <img width ='40px' src ='https://img.icons8.com/color/144/000000/c-programming.png'> </a>
-<a href= https://www.geeksforgeeks.org/c-plus-plus/> <img width ='40px' src ='https://img.icons8.com/color/144/000000/c-plus-plus-logo.png'> </a>
-<a href= https://www.w3schools.com/html/> <img width ='40px' src ='https://img.icons8.com/color/144/000000/html-5--v1.png'> </a>
-<a href= https://en.wikipedia.org/wiki/Adobe_Photoshop/> <img width ='40px' src ='https://img.icons8.com/color/144/000000/adobe-photoshop--v1.png'> </a>
-<a href= https://en.wikipedia.org/wiki/Adobe_Lightroom> <img width ='40px' src ='https://img.icons8.com/color/144/000000/adobe-lightroom--v1.png'> </a>
-<a href= https://en.wikipedia.org/wiki/Adobe_Premiere> <img width ='40px' src ='https://img.icons8.com/color/144/000000/adobe-premiere-pro--v1.png'> </a>
-<a href= https://code.visualstudio.com/> <img width ='40px' src ='https://img.icons8.com/color/144/000000/visual-studio-code-2019.png'> </a>
-<a href= https://www.jetbrains.com/idea/> <img width ='40px' src ='https://img.icons8.com/color/144/000000/intellij-idea.png'> </a>
-<a href= https://www.linux.org/> <img width ='40px' src ='https://img.icons8.com/color/144/000000/linux--v1.png'> </a>
-<a href= https://www.apple.com/in/macos> <img width ='40px' src ='https://img.icons8.com/ios-glyphs/144/000000/mac-client.png'> </a>
-<a href= https://www.microsoft.com/en-in/windows> <img width ='40px' src ='https://img.icons8.com/fluency/144/000000/windows-10.png'> </a>
-<a href= https://git-scm.com/> <img width ='40px' src ='https://img.icons8.com/color/144/000000/git.png'> </a>
-<a href= https://www.docker.com/> <img width ='40px' src ='https://img.icons8.com/color/144/000000/docker.png'> </a>
+![Blog](https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://ronitbanerjee.hashnode.dev/m1-mac-ec2-instance&large=true&theme=light)
+
+
+<!-- HASHNODE_BLOG:END -->
 
 
 
-[![Ronit's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ronitblenz&theme=tokyonight)](https://github.com/ronitblenz?tab=repositories)
+### Achievements
 
-<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
-
-<h3>Statistical Data :-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=ronitblenz&show_icons=true&locale=en&layout=compact"
-    alt="ronitblenz" /></p>
-
-<br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ronitblenz&show_icons=true&locale=en"
-    alt="ronitblenz" /></p>
-
-<br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ronitblenz&" alt="ronitblenz" /></p>
-
-<br>
+- 🏆 Google Sumer of Code Mentee @ DBpedia - [`Official Project Page`](https://summerofcode.withgoogle.com/programs/2023/projects/XXtxuRIj)           
+- 🏆 Open Source Summit Europe 2022 Attendee - Postman API Fest 2022. - [`Blog Link`](https://ronitbanerjee.hashnode.dev/open-source-summit-europe-experience)      
