@@ -11,7 +11,10 @@ I am a DevOps and Cloud Engineer. I like building CLI and automation tools. I am
 
 ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+
+![Blog](https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://ronitbanerjee.hashnode.dev/semantic-web-documentation&large=false&theme=light)
 ![Blog](https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://ronitbanerjee.hashnode.dev/introduction-to-devops&large=false&theme=light)
+![Blog](https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://ronitbanerjee.hashnode.dev/computer-networking&large=false&theme=light)
 ![Blog](https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://ronitbanerjee.hashnode.dev/ec2-using-terraform&large=false&theme=light)
 ![Blog](https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://ronitbanerjee.hashnode.dev/m1-mac-ec2-instance&large=false&theme=light)
 
