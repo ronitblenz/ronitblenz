@@ -9,8 +9,9 @@ I am a DevOps and Cloud Engineer. I like building CLI and automation tools. I am
 
 </div>
 
+<!-- 
 ### My Latest Blog Posts 👇
-<!-- HASHNODE_BLOG:START -->
+HASHNODE_BLOG:START
 
 ![Blog](https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://ronitbanerjee.hashnode.dev/semantic-web-documentation&large=false&theme=light)
 ![Blog](https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://ronitbanerjee.hashnode.dev/introduction-to-devops&large=false&theme=light)
@@ -18,13 +19,13 @@ I am a DevOps and Cloud Engineer. I like building CLI and automation tools. I am
 ![Blog](https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://ronitbanerjee.hashnode.dev/ec2-using-terraform&large=false&theme=light)
 ![Blog](https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://ronitbanerjee.hashnode.dev/m1-mac-ec2-instance&large=false&theme=light)
 
-
-
-<!-- HASHNODE_BLOG:END -->
+HASHNODE_BLOG:END -->
 
 
 
 ### Achievements
 
-- 🏆 Google Sumer of Code Mentee @ DBpedia - [`Official Project Page`](https://summerofcode.withgoogle.com/programs/2023/projects/XXtxuRIj)           
-- 🏆 Open Source Summit Europe 2022 Attendee - The Only under 19 - [`Blog Link`](https://ronitbanerjee.hashnode.dev/open-source-summit-europe-experience)      
+- 🏆 **Google Sumer of Code** Mentee @ DBpedia - [`Official Project Page`](https://summerofcode.withgoogle.com/programs/2023/projects/XXtxuRIj)           
+- 🏆 **Open Source Summit Europe 2022** Attendee : The Only under 19 - [`Blog Link`](https://ronitbanerjee.hashnode.dev/open-source-summit-europe-experience)
+- 🏆 **Kubernetes Sig Contribex Comms** Volunteer : Kubernetes Contributors Summit North America 2023 - [`GitHub Thread`](https://github.com/kubernetes/community/issues/7354)
+- 🏆 **Cloud Native Community Group** : Chapter Lead - [`Community Page`](https://community.cncf.io/cloud-native-hooghly/)
