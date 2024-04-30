@@ -27,6 +27,7 @@ HASHNODE_BLOG:END -->
 
 
 - 🏆 **CNCF Ambassador** : Cloud Native Computing Foundation Representative - [`Credly Badge`](https://www.credly.com/badges/44cb9787-1581-4000-8626-c22a5bf1596b/public_url)
+- 🏆 **Google Sumer of Code** Mentor @ DBpedia - [`Official Project Page`](https://summerofcode.withgoogle.com/programs/2024/organizations/dbpedia)
 - 🏆 **Google Sumer of Code** Mentee @ DBpedia - [`Official Project Page`](https://summerofcode.withgoogle.com/programs/2023/projects/XXtxuRIj)           
 - 🏆 **Open Source Summit Europe 2022** Attendee : The Only under 19 - [`Blog Link`](https://ronitbanerjee.hashnode.dev/open-source-summit-europe-experience)
 - 🏆 **Kubernetes Sig Contribex Comms** Volunteer : Kubernetes Contributors Summit North America 2023 - [`GitHub Thread`](https://github.com/kubernetes/community/issues/7354)
